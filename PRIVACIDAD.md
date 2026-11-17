@@ -69,7 +69,7 @@ Legends está pensada para jugadores de Dota 2 con una cuenta de Steam, que exig
 
 ## Seguridad
 
-Los datos se procesan en tu equipo y las conexiones con Steam y OpenAI usan cifrado HTTPS. Ningún sistema es completamente seguro, así que te recomendamos mantener protegido el acceso a tu equipo.
+Los datos se procesan en tu equipo y las conexiones con Steam y OpenAI usan cifrado HTTPS.
 
 ## Cambios a esta política
 
